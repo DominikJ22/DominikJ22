@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dominik Jones</h1>
-<h3 align="center">A passionate frontend developer from Buffalo, NY</h3>
+<h3 align="center">A passionate Full-stack engineer from Buffalo, NY. I enjoy writing code and building new projects. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominikj22&label=Profile%20views&color=0e75b6&style=flat" alt="dominikj22" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" alt="compuer-gif"> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominikj22" alt="dominikj22" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/domsdojo" target="blank"><img src="https://img.shields.io/twitter/follow/domsdojo?logo=twitter&style=for-the-badge" alt="domsdojo" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dominikj22&label=Profile%20views&color=0e75b6&style=flat" alt="dominikj22" /> </p>
+
+<p align="center"> <a href="https://twitter.com/domsdojo" target="blank"><img src="https://img.shields.io/twitter/follow/domsdojo?logo=twitter&style=for-the-badge" alt="domsdojo" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Python to go along with my JavaScript skills**
 
