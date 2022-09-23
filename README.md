@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Dominik Jones</h1>
 <h3 align="center">A passionate Full-stack engineer from Buffalo, NY. I enjoy writing code and building new projects. </h3>
 
