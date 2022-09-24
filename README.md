@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Dominik Jones</h1>
-<h3 align="center">A passionate Full-stack engineer from Buffalo, NY. I enjoy writing code and building new projects. </h3>
+<h3 align="center">And I am a passionate Full-stack engineer from New York. I enjoy writing code and building new projects. </h3>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" alt="compuer-gif"> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" <width = "10%"> <height = "10%" alt="compuer-gif"> </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dominikj22&label=Profile%20views&color=0e75b6&style=flat" alt="dominikj22" /> </p>
