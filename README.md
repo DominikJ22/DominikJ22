@@ -1,6 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Dominik Jones</h1>
-<h3 align="center">And I am a passionate Full-stack engineer from New York. </br> I enjoy writing code and building new projects. </h3>
+<img src = "https://github.com/DominikJ22/DominikJ22/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png">
+<h1 align="center">Hi 👋, I'm Dominik</h1>
+<h3 align="center"> I am a passionate Full-stack engineer from New York. </br> I enjoy writing code and building new projects. </h3>
 
 <p align="center"> <img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" width = "50%" height = "50%" alt="compuer-gif"> </p>
 
