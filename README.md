@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dominik Jones</h1>
-<h3 align="center">And I am a passionate Full-stack engineer from New York. I enjoy writing code and building new projects. </h3>
+<h3 align="center">And I am a passionate Full-stack engineer from New York. </br> I enjoy writing code and building new projects. </h3>
 
 <p align="center"> <img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" width = "50%" height = "50%" alt="compuer-gif"> </p>
 
