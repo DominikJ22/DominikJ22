@@ -1,28 +1,37 @@
 <img src = "https://github.com/DominikJ22/DominikJ22/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png">
-<h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center"> <p>I am a full-stack developer who has a passion for code. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.</p>
+
+<h3 align="center"> <p> Hi, I'm Dominik and I am a full-stack developer who has a knowledge in MERN. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.</p>
 <p>I specialize in building beautiful frontend development and I always make sure my backend can do the heavy lifting for your app or website. I love designing code that is light yet powerful, distributed yet synchronized and beautiful yet effective.</p> </h3>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" width = "50%" height = "50%" alt="compuer-gif"> </p>
+
+- Want to talk? You can reach me **dominikjo22@gmail.com** or [my website](https://dominikjones.netlify.app/) for more information!
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dominikj22&label=Profile%20views&color=0e75b6&style=flat" alt="dominikj22" /> </p>
-
-<p align="center"> <a href="https://twitter.com/domsdojo" target="blank"><img src="https://img.shields.io/twitter/follow/domsdojo?logo=twitter&style=for-the-badge" alt="domsdojo" /></a> </p>
-
-- 🌱 I’m a JavaScript developer that uses the MERN stack.
-
-- 📫 How to reach me **dominikjo22@gmail.com**
-
-- ⚡ Fun fact **I love martial arts.**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/domsdojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="domsdojo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dominik-jones/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-jones/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Connect</h1>
+<p align="center">
+  <a href="https://dominikjones.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=red&style=flat&logo=webflow&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dominik-jones/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=red&style=flat&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/DomsDojo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=red&style=flat&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/dominik-jones-2" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=red&style=flat&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="dominikjo22@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=Email&color=red&style=flat&logo=aboutdotme&logo-color=white"/>
+  </a> 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dominikj22&label=Profile%20views&color=0e75b6&style=flat" alt="dominikj22" /> </p>
+</p>
+
+
+
+<h1 align="center">Languages and Tools:</h1>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
