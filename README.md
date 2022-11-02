@@ -44,6 +44,10 @@
     <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7"/>
 </p>
 
+<h1 align="center">Projects</h1>
+
+<table bordercolor="#a3496a">
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikj22&show_icons=true&locale=en&layout=compact" alt="dominikj22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikj22&show_icons=true&locale=en" alt="dominikj22" /></p>
