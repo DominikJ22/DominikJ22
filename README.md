@@ -35,6 +35,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
@@ -42,6 +43,8 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7"/>
+     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
 <h1 align="center">Projects</h1>
