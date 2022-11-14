@@ -51,9 +51,9 @@
 
 <table bordercolor="#a3496a">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikj22&show_icons=true&locale=en&layout=compact" alt="dominikj22" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikj22&show_icons=true&locale=en&layout=compact" alt="dominikj22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikj22&show_icons=true&locale=en" alt="dominikj22" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dominikj22&show_icons=true&locale=en" alt="dominikj22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikj22&" alt="dominikj22" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dominikj22&" alt="dominikj22" /></p>
 
