@@ -47,9 +47,79 @@
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Projects (Cominig Soon...)</h1>
 
 <table bordercolor="#a3496a">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Title</h3>
+        <br />
+        <a target="_blank" href="link">
+           <img width="1440" alt="#" src="#" alt="#" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="link" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>Description</strong></p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Title</h3>
+        <br />
+        <a target="_blank" href="link">
+           <img width="1440" alt="#" src="#" alt="#" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="link" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>Description</strong></p>
+    </td>
+  </tr>
+  <tr>
+         <td width="50%" valign="top">
+      <h3 align="center">Title</h3>
+        <br />
+        <a target="_blank" href="link">
+           <img width="1440" alt="#" src="#" alt="#" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="link" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>Description</strong></p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Title</h3>
+        <br />
+        <a target="_blank" href="link">
+           <img width="1440" alt="#" src="#" alt="#" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="link" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>Description</strong></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikj22&show_icons=true&locale=en&layout=compact" alt="dominikj22" /></p>
 
