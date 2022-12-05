@@ -1,7 +1,7 @@
 <img src = "https://github.com/DominikJ22/DominikJ22/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png">
 
-<h3 align="center"> <p> Hi, I'm Dominik and I am a full-stack developer who has a knowledge in MERN. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.</p>
-<p>I specialize in building beautiful frontend development and I always make sure my backend can do the heavy lifting for your app or website. I love designing code that is light yet powerful, distributed yet synchronized and beautiful yet effective.</p> </h3>
+<h3 align="center"> <p>Hi, I'm Dominik and I am a full-stack developer, who uses the MERN stack. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.</p>
+<p>I specialize in building beautiful frontend development and I always make sure my backend can do the heavy lifting for your app or website. I love designing code that is light yet powerful, distributed yet synchronized, and beautiful yet effective.</p> </h3>
 
 
 - Want to talk? You can reach me **dominikjo22@gmail.com** or [my website](https://dominikjones.netlify.app/) for more information!
