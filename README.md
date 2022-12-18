@@ -81,7 +81,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>A Fullstack Social Media app using HTML, CSS, JavaScript and React.</strong></p>
+         <p align="center"><strong>A Fullstack Social Media app using HTML, CSS, JavaScript, React, and MVC.</strong></p>
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>A Fullstack E-commers app using HTML, CSS, JavaScript and React.</strong></p>
+         <p align="center"><strong>A Fullstack E-commers app using HTML, CSS, JavaScript, and React.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Ticket Tracker</h3>
@@ -157,7 +157,7 @@
       <h3 align="center">Invincible</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="500" src="#" alt="#" />
+           <img width="500" src=" " alt="inv.gif" />
         </a>
         <br /><br />
         <p align="center">
@@ -167,7 +167,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>An Invincible API APP using HTML, CSS, JavaScript, and OOP.</strong></p>
+         <p align="center"><strong>An Invincible APP using HTML, CSS, JavaScript, OOP and my own API.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Project Cosmos</h3>
