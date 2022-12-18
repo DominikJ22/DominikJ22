@@ -183,7 +183,7 @@
   <a href="https://project-cosmos.netlify.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Using The NASA database you can see different images of space on a select day and year. Made with: HTML, CSS, JavaScript.</strong></p>
+         <p align="center"><strong>Let's travel the galaxy together! Using The NASA database you can see different images of space on a select day and year. Made with: HTML, CSS, JavaScript.</strong></p>
     </td>
   </tr>
 </table>
