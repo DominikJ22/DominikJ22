@@ -81,7 +81,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>A Fullstack Social Media app using HTML, CSS, JavaScript, React, and MVC.</strong></p>
+         <p align="center"><strong>Having trouble on your fitness journey? Need some motivation? Stay connect with other individuals like you. With my Fullstack Social Media Fitness app. Made using HTML, CSS, JavaScript, React, and MVC.</strong></p>
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>A Fullstack E-commers app using HTML, CSS, JavaScript, and React.</strong></p>
+         <p align="center"><strong>Want to see A Fullstack E-commers app Made using HTML, CSS, JavaScript, and React.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Ticket Tracker</h3>
@@ -115,7 +115,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>A ticket tracker app using HTML, CSS, JavaScript and EJS.</strong></p>
+         <p align="center"><strong>Need a ticket tracker? Use this app to keep up with customer needs and sort out their issues. Made using: HTML, CSS, JavaScript, Bootstrap, and EJS.</strong></p>
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong> A TO-DO app using HTML, CSS, JavaScript, EJS, and MVC.</strong></p>
+         <p align="center"><strong> Use this Fullstack TO-DO app to keep track of your daily task, all you have to do is sign in! Made using: HTML, CSS, JavaScript, EJS, and MVC.</strong></p>
     </td>
      <td width="100%" valign="top">
       <h3 align="center">Star Wars</h3>
@@ -149,7 +149,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>A Star Wars CRUD APP using HTML, CSS, JavaScript, NODE, Express, and MongoDB.</strong></p>
+         <p align="center"><strong>Use this Star Wars CRUD App to put in your favorite movie quotes and to get rid of the evil Vaders powerful words. Made using: HTML, CSS, JavaScript, NODE, Express, and MongoDB.</strong></p>
     </td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>An Invincible APP using HTML, CSS, JavaScript, OOP and my own API.</strong></p>
+         <p align="center"><strong>Based on the TV show Invincible, use this Alien Tracker App to find out your favorite characters real name, powers, and much more. Made using: HTML, CSS, JavaScript, OOP and my own API.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Project Cosmos</h3>
@@ -183,7 +183,7 @@
   <a href="https://project-cosmos.netlify.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>My REST API proeject using The NASA database, HTML, CSS, JavaScript.</strong></p>
+         <p align="center"><strong>Using The NASA database you can see different images of space on a select day and year. Made with: HTML, CSS, JavaScript.</strong></p>
     </td>
   </tr>
 </table>
