@@ -55,7 +55,7 @@
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="500" src="#" alt="#" />
+           <img width="400" src="#" alt="#" />
         </a>
         <br /><br />
         <p align="center">
@@ -71,7 +71,7 @@
       <h3 align="center">Fit Friends(coming soon...)</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="1440" alt="#" src="#" alt="#" />
+           <img width="400" alt="#" src="#" alt="#" />
         </a>
         <br /><br />
         <p align="center">
@@ -89,7 +89,7 @@
       <h3 align="center">Stock up(coming soon...)</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="500" src="#" alt="#" />
+           <img width="400" src="#" alt="#" />
         </a>
         <br /><br />
         <p align="center">
@@ -105,7 +105,7 @@
       <h3 align="center">Ticket Tracker</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="1440" alt="#" src="#" alt="#" />
+           <img width="400" alt="#" src="#" alt="#" />
         </a>
         <br /><br />
         <p align="center">
@@ -123,7 +123,7 @@
       <h3 align="center">Dont Forget(coming soon...)</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="1440" alt="#" src="#" alt="#" />
+           <img width="400" alt="#" src="#" alt="#" />
         </a>
         <br /><br />
         <p align="center">
@@ -139,7 +139,7 @@
       <h3 align="center">Star Wars</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="500" src="star.gif" alt="starwars crud" />
+           <img width="400" src="star.gif" alt="starwars crud" />
         </a>
         <br /><br />
         <p align="center">
@@ -157,7 +157,7 @@
       <h3 align="center">Invincible</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="300" src="invi.gif" alt="invi.gif" />
+           <img width="400" src="invi.gif" alt="invi.gif" />
         </a>
         <br /><br />
         <p align="center">
@@ -173,7 +173,7 @@
       <h3 align="center">Project Cosmos</h3>
         <br />
         <a target="_blank" href="https://project-cosmos.netlify.app">
-           <img width="300" src="space.gif" alt="space.gif"/>
+           <img width="400" src="space.gif" alt="space.gif"/>
         </a>
         <br /><br />
         <p align="center">
