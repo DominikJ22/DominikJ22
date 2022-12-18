@@ -54,9 +54,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
-        <a target="_blank" href="link">
-           <img width="450" src="#" alt="#" />
+           <p align="center"> 
+       <a target="_blank" href=" ">
+           <img width="450" src="port.gif" alt="port.gif"/>
         </a>
+         </p>
         <br /><br />
         <p align="center">
           
@@ -70,9 +72,11 @@
      <td width="50%" valign="top">
       <h3 align="center">Fit Friends(coming soon...)</h3>
         <br />
-        <a target="_blank" href="link">
-           <img width="450" alt="#" src="#" alt="#" />
+            <p align="center"> 
+       <a target="_blank" href=" ">
+           <img width="450" src="fit.gif" alt="fit.gif"/>
         </a>
+         </p>
         <br /><br />
         <p align="center">
           
@@ -88,9 +92,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Stock up(coming soon...)</h3>
         <br />
-        <a target="_blank" href="link">
-           <img width="450" src="#" alt="#" />
+           <p align="center"> 
+       <a target="_blank" href=" ">
+           <img width="450" src="ecom.gif" alt="ecom.gif"/>
         </a>
+         </p>
         <br /><br />
         <p align="center">
           
@@ -104,15 +110,17 @@
      <td width="50%" valign="top">
       <h3 align="center">Ticket Tracker</h3>
         <br />
-        <a target="_blank" href="link">
-           <img width="450" alt="ticket.gif" src="ticket.gif" />
+          <p align="center"> 
+       <a target="_blank" href="ticket-tracer.netlify.app">
+           <img width="450" src="ticket.gif" alt="ticket.gif"/>
         </a>
+         </p>
         <br /><br />
         <p align="center">
           
-  <a href="link" target="_blank" rel="noreferrer">
+  <a href="https://github.com/DominikJ22/ticket-tracker" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="ticket-tracer.netlify.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
          <p align="center"><strong>Need a ticket tracker? Use this app to keep up with customer needs and sort out their issues. Made using: HTML, CSS, JavaScript, Bootstrap, and EJS.</strong></p>
@@ -122,9 +130,11 @@
          <td width="50%" valign="top">
       <h3 align="center">Dont Forget(coming soon...)</h3>
         <br />
-        <a target="_blank" href="link">
-           <img width="450" alt="#" src="#" alt="#" />
+        <p align="center"> 
+       <a target="_blank" href=" ">
+           <img width="450" src="todo.gif" alt="todo.gif"/>
         </a>
+         </p>
         <br /><br />
         <p align="center">
           
@@ -138,9 +148,11 @@
      <td width="100%" valign="top">
       <h3 align="center">Star Wars</h3>
         <br />
-        <a target="_blank" href="link">
-           <img width="450" src="star.gif" alt="starwars crud" />
+       <p align="center"> 
+       <a target="_blank" href=" ">
+           <img width="450" src="star.gif" alt="starwars-crud.gif"/>
         </a>
+         </p>
         <br /><br />
         <p align="center">
           
@@ -156,9 +168,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Invincible</h3>
         <br />
-        <a target="_blank" href="https://invincible-tracker.netlify.app">
-           <img width="450" src="invi.gif" alt="invi.gif" />
+     <p align="center"> 
+       <a target="_blank" href="https://invincible-tracker.netlify.app">
+           <img width="450" src="invi.gif" alt="invi.gif"/>
         </a>
+         </p>
         <br /><br />
         <p align="center">
           
@@ -172,9 +186,11 @@
      <td width="50%" valign="top">
       <h3 align="center">Project Cosmos</h3>
         <br />
-        <a target="_blank" href="https://project-cosmos.netlify.app">
+       <p align="center"> 
+       <a target="_blank" href="https://project-cosmos.netlify.app">
            <img width="450" src="space.gif" alt="space.gif"/>
         </a>
+         </p>
         <br /><br />
         <p align="center">
           
