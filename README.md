@@ -157,7 +157,7 @@
       <h3 align="center">Invincible</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="500" src="invi.gif" alt="invi.gif" />
+           <img width="300" src="invi.gif" alt="invi.gif" />
         </a>
         <br /><br />
         <p align="center">
@@ -173,7 +173,7 @@
       <h3 align="center">Project Cosmos</h3>
         <br />
         <a target="_blank" href="https://project-cosmos.netlify.app">
-           <img width="500" src="space.gif" alt="rest api.gif" />
+           <img width="300" src="space.gif" alt="space.gif"/>
         </a>
         <br /><br />
         <p align="center">
