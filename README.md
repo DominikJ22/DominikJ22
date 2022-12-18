@@ -156,15 +156,15 @@
     <td width="50%" valign="top">
       <h3 align="center">Invincible</h3>
         <br />
-        <a target="_blank" href="link">
+        <a target="_blank" href="https://invincible-tracker.netlify.app">
            <img width="475" src="invi.gif" alt="invi.gif" />
         </a>
         <br /><br />
         <p align="center">
           
-  <a href="link" target="_blank" rel="noreferrer">
+  <a href="https://github.com/DominikJ22/invincble-app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://invincible-tracker.netlify.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
          <p align="center"><strong>Based on the TV show Invincible, use this Alien Tracker App to find out your favorite characters real name, powers, and much more. Made using: HTML, CSS, JavaScript, OOP and my own API.</strong></p>
