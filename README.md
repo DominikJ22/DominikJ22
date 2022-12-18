@@ -144,7 +144,7 @@
         <br /><br />
         <p align="center">
           
-  <a href="https://github.com/DominikJ22/star-warshttps://github.com/DominikJ22/Nasa-Explorer" target="_blank" rel="noreferrer">
+  <a href="https://github.com/DominikJ22/star-wars" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
