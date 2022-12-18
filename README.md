@@ -50,9 +50,9 @@
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#a3496a">
-  <tr>
+<tr>
     <td width="50%" valign="top">
-      <h3 align="center">Fit Friends (coming soon..)</h3>
+      <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="link">
            <img width="500" src="#" alt="#" />
@@ -65,9 +65,25 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Description</strong></p>
+         <p align="center"><strong>My portfolio website using HTML, CSS, JavaScript. Check out my site if you need a Software developer or need a website!</strong></p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Fit Friends(coming soon...)</h3>
+        <br />
+        <a target="_blank" href="link">
+           <img width="1440" alt="#" src="#" alt="#" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="link" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>A Fullstack Social Media app using HTML, CSS, JavaScript and React.</strong></p>
+    </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Stock up(coming soon...)</h3>
@@ -83,7 +99,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Description</strong></p>
+         <p align="center"><strong>A Fullstack E-commers app using HTML, CSS, JavaScript and React.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Ticket Tracker</h3>
@@ -99,7 +115,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Description</strong></p>
+         <p align="center"><strong>A ticket tracker app using HTML, CSS, JavaScript and EJS.</strong></p>
     </td>
   </tr>
   <tr>
@@ -117,7 +133,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Description</strong></p>
+         <p align="center"><strong> A TO-DO app using HTML, CSS, JavaScript, EJS, and MVC.</strong></p>
     </td>
      <td width="100%" valign="top">
       <h3 align="center">Star Wars</h3>
@@ -133,7 +149,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Description</strong></p>
+         <p align="center"><strong>A Star Wars CRUD APP using HTML, CSS, JavaScript, NODE, Express, and MongoDB.</strong></p>
     </td>
   </tr>
   <tr>
@@ -151,12 +167,12 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Description</strong></p>
+         <p align="center"><strong>An Invincible API APP using HTML, CSS, JavaScript, and OOP.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Project Cosmos</h3>
         <br />
-        <a target="_blank" href="link">
+        <a target="_blank" href="https://project-cosmos.netlify.app">
            <img width="500" src="space.gif" alt="rest api.gif" />
         </a>
         <br /><br />
@@ -164,10 +180,10 @@
           
   <a href="https://github.com/DominikJ22/Nasa-Explorer" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://project-cosmos.netlify.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Description</strong></p>
+         <p align="center"><strong>My REST API proeject using The NASA database, HTML, CSS, JavaScript.</strong></p>
     </td>
   </tr>
 </table>
