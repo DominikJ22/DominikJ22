@@ -123,7 +123,7 @@
       <h3 align="center">Star Wars</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="75%" src="#" alt="starwars crud" />
+           <img width="500" src="star.gif" alt="starwars crud" />
         </a>
         <br /><br />
         <p align="center">
@@ -157,7 +157,7 @@
       <h3 align="center">Project Cosmos</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="1440" src="#" alt="rest api.gif" />
+           <img width="500" src="space.gif" alt="rest api.gif" />
         </a>
         <br /><br />
         <p align="center">
