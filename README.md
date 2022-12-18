@@ -47,16 +47,33 @@
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
-<h1 align="center">Projects (Cominig Soon...)</h1>
+<h1 align="center">Projects</h1>
 
 <table bordercolor="#a3496a">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Fit Friends (coming soon..)</h3>
+        <br />
+        <a target="_blank" href="link">
+           <img width="500" src="#" alt="#" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="link" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>Description</strong></p>
+  </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Title</h3>
+      <h3 align="center">Stock up(coming soon...)</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="1440" alt="#" src="#" alt="#" />
+           <img width="500" src="#" alt="#" />
         </a>
         <br /><br />
         <p align="center">
@@ -69,7 +86,7 @@
          <p align="center"><strong>Description</strong></p>
     </td>
      <td width="50%" valign="top">
-      <h3 align="center">Title</h3>
+      <h3 align="center">Ticket Tracker</h3>
         <br />
         <a target="_blank" href="link">
            <img width="1440" alt="#" src="#" alt="#" />
@@ -87,7 +104,7 @@
   </tr>
   <tr>
          <td width="50%" valign="top">
-      <h3 align="center">Title</h3>
+      <h3 align="center">Dont Forget(coming soon...)</h3>
         <br />
         <a target="_blank" href="link">
            <img width="1440" alt="#" src="#" alt="#" />
@@ -102,11 +119,45 @@
         </p>
          <p align="center"><strong>Description</strong></p>
     </td>
-     <td width="50%" valign="top">
-      <h3 align="center">Title</h3>
+     <td width="100%" valign="top">
+      <h3 align="center">Star Wars</h3>
         <br />
         <a target="_blank" href="link">
-           <img width="1440" alt="#" src="#" alt="#" />
+           <img width="75%" src="#" alt="starwars crud" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="link" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>Description</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Invincible</h3>
+        <br />
+        <a target="_blank" href="link">
+           <img width="500" src="#" alt="#" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="link" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>Description</strong></p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Project Cosmos</h3>
+        <br />
+        <a target="_blank" href="link">
+           <img width="1440" src="#" alt="rest api.gif" />
         </a>
         <br /><br />
         <p align="center">
