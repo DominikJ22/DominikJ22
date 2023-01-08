@@ -48,15 +48,12 @@
 </p>
 
 <h1 align="center">Projects</h1>
-
-<table bordercolor="#a3496a">
-<tr>
-    <td width="50%" valign="top">
+ <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
            <p align="center"> 
        <a target="_blank" href="https://dominikjones.netlify.app/">
-           <img width="400" src="port.gif" alt="port.gif"/>
+           <img width="700" src="port.gif" alt="port.gif"/>
         </a>
          </p>
         <br /><br />
@@ -68,6 +65,27 @@
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
          <p align="center"><strong>My portfolio website using HTML, CSS, JavaScript. Check out my site if you need a Software developer or need a website!</strong></p>
+    </td>
+
+<table bordercolor="#a3496a">
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Blog Hog (coming soon...)</h3>
+        <br />
+           <p align="center"> 
+       <a target="_blank" href="https://dominikjones.netlify.app/">
+           <img width="400" src="x.gif" alt="x.gif"/>
+        </a>
+         </p>
+        <br /><br />
+        <p align="center">
+          
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>My fullstack blog website using HTML, CSS, JavaScript, and SQL.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Fit Friends(coming soon...)</h3>
