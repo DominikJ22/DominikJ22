@@ -56,7 +56,7 @@
         <br />
            <p align="center"> 
        <a target="_blank" href="https://dominikjones.netlify.app/">
-           <img width="450" src="port.gif" alt="port.gif"/>
+           <img width="400" src="port.gif" alt="port.gif"/>
         </a>
          </p>
         <br /><br />
@@ -74,7 +74,7 @@
         <br />
             <p align="center"> 
        <a target="_blank" href=" ">
-           <img width="450" src="fit.gif" alt="fit.gif"/>
+           <img width="400" src="fit.gif" alt="fit.gif"/>
         </a>
          </p>
         <br /><br />
@@ -94,7 +94,7 @@
         <br />
            <p align="center"> 
        <a target="_blank" href=" ">
-           <img width="450" src="ecom.gif" alt="ecom.gif"/>
+           <img width="400" src="ecom.gif" alt="ecom.gif"/>
         </a>
          </p>
         <br /><br />
@@ -112,7 +112,7 @@
         <br />
           <p align="center"> 
        <a target="_blank" href="https://ticket-txk1.onrender.com/">
-           <img width="450" src="ticket.gif" alt="ticket.gif"/>
+           <img width="400" src="ticket.gif" alt="ticket.gif"/>
         </a>
          </p>
         <br /><br />
@@ -132,7 +132,7 @@
         <br />
         <p align="center"> 
        <a target="_blank" href=" ">
-           <img width="450" src="todo.gif" alt="todo.gif"/>
+           <img width="400" src="todo.gif" alt="todo.gif"/>
         </a>
          </p>
         <br /><br />
@@ -150,7 +150,7 @@
         <br />
        <p align="center"> 
        <a target="_blank" href=" ">
-           <img width="450" src="star.gif" alt="starwars-crud.gif"/>
+           <img width="400" src="star.gif" alt="starwars-crud.gif"/>
         </a>
          </p>
         <br /><br />
@@ -170,7 +170,7 @@
         <br />
      <p align="center"> 
        <a target="_blank" href="https://invincible-tracker.netlify.app">
-           <img width="450" src="invi.gif" alt="invi.gif"/>
+           <img width="400" src="invi.gif" alt="invi.gif"/>
         </a>
          </p>
         <br /><br />
@@ -188,7 +188,7 @@
         <br />
        <p align="center"> 
        <a target="_blank" href="https://project-cosmos.netlify.app">
-           <img width="450" src="space.gif" alt="space.gif"/>
+           <img width="400" src="space.gif" alt="space.gif"/>
         </a>
          </p>
         <br /><br />
