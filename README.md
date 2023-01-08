@@ -55,16 +55,16 @@
       <h3 align="center">Portfolio</h3>
         <br />
            <p align="center"> 
-       <a target="_blank" href=" ">
+       <a target="_blank" href="https://dominikjones.netlify.app/">
            <img width="450" src="port.gif" alt="port.gif"/>
         </a>
          </p>
         <br /><br />
         <p align="center">
           
-  <a href="link" target="_blank" rel="noreferrer">
+  <a href="https://github.com/DominikJ22/Portfolio" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://dominikjones.netlify.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
          <p align="center"><strong>My portfolio website using HTML, CSS, JavaScript. Check out my site if you need a Software developer or need a website!</strong></p>
