@@ -111,7 +111,7 @@
       <h3 align="center">Ticket Tracker</h3>
         <br />
           <p align="center"> 
-       <a target="_blank" href="ticket-tracer.netlify.app">
+       <a target="_blank" href="https://ticket-txk1.onrender.com/">
            <img width="450" src="ticket.gif" alt="ticket.gif"/>
         </a>
          </p>
@@ -120,7 +120,7 @@
           
   <a href="https://github.com/DominikJ22/ticket-tracker" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="ticket-tracer.netlify.app" target="_blank" rel="noreferrer">
+  <a href="https://ticket-txk1.onrender.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
          <p align="center"><strong>Need a ticket tracker? Use this app to keep up with customer needs and sort out their issues. Made using: HTML, CSS, JavaScript, Bootstrap, and EJS.</strong></p>
