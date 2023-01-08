@@ -146,22 +146,22 @@
          <p align="center"><strong> Use this Fullstack TO-DO app to keep track of your daily task, all you have to do is sign in! Made using: HTML, CSS, JavaScript, EJS, and MVC.</strong></p>
     </td>
      <td width="100%" valign="top">
-      <h3 align="center">Star Wars</h3>
+      <h3 align="center">JavX</h3>
         <br />
        <p align="center"> 
-       <a target="_blank" href=" ">
-           <img width="400" src="star.gif" alt="starwars-crud.gif"/>
+       <a target="_blank" href="https://vercel.com/dominikj22/jav-x">
+           <img width="400" src="javx.gif" alt="javx.gif"/>
         </a>
          </p>
         <br /><br />
         <p align="center">
           
-  <a href="https://github.com/DominikJ22/star-wars" target="_blank" rel="noreferrer">
+  <a href="https://github.com/DominikJ22/JavX" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://vercel.com/dominikj22/jav-x" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Use this Star Wars CRUD App to put in your favorite movie quotes and to get rid of the evil Vaders powerful words. Made using: HTML, CSS, JavaScript, NODE, Express, and MongoDB.</strong></p>
+         <p align="center"><strong>Have you heard of ChatGPT? If, not it is an AI app that people can use for many tasks, showing the power of technology. I have my made my own version with JavaScript called JavX. Made using: HTML, CSS, JavaScript, API, Vite, and OpenAI.</strong></p>
     </td>
   </tr>
   <tr>
