@@ -53,7 +53,7 @@
         <br />
            <p align="center"> 
        <a target="_blank" href="https://dominikjones.netlify.app/">
-           <img width="700" src="port.gif" alt="port.gif"/>
+           <img src="port.gif" alt="port.gif"/>
         </a>
          </p>
         <br /><br />
@@ -69,30 +69,30 @@
 
 <table bordercolor="#a3496a">
 <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Blog Hog (coming soon...)</h3>
+     <td width="50%" valign="top">
+      <h3 align="center">Stock up(coming soon...)</h3>
         <br />
            <p align="center"> 
-       <a target="_blank" href="https://dominikjones.netlify.app/">
-           <img width="400" src="x.gif" alt="x.gif"/>
+       <a target="_blank" href=" ">
+           <img src="ecom.gif" alt="ecom.gif"/>
         </a>
          </p>
         <br /><br />
         <p align="center">
           
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="link" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>My fullstack blog website using HTML, CSS, JavaScript, and SQL.</strong></p>
+         <p align="center"><strong>Want to see A Fullstack E-commers app Made using HTML, CSS, JavaScript, and React.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Fit Friends(coming soon...)</h3>
         <br />
             <p align="center"> 
        <a target="_blank" href=" ">
-           <img width="400" src="fit.gif" alt="fit.gif"/>
+           <img src="fit.gif" alt="fit.gif"/>
         </a>
          </p>
         <br /><br />
@@ -108,11 +108,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Stock up(coming soon...)</h3>
+      <h3 align="center">Book Buddies(coming soon...)</h3>
         <br />
            <p align="center"> 
        <a target="_blank" href=" ">
-           <img width="400" src="ecom.gif" alt="ecom.gif"/>
+           <img src="book.gif" alt="book.gif"/>
         </a>
          </p>
         <br /><br />
@@ -130,7 +130,7 @@
         <br />
           <p align="center"> 
        <a target="_blank" href="https://ticket-txk1.onrender.com/">
-           <img width="400" src="ticket.gif" alt="ticket.gif"/>
+           <img src="ticket.gif" alt="ticket.gif"/>
         </a>
          </p>
         <br /><br />
@@ -150,7 +150,7 @@
         <br />
         <p align="center"> 
        <a target="_blank" href=" ">
-           <img width="400" src="todo.gif" alt="todo.gif"/>
+           <img src="todo.gif" alt="todo.gif"/>
         </a>
          </p>
         <br /><br />
@@ -168,7 +168,7 @@
         <br />
        <p align="center"> 
        <a target="_blank" href="https://jav-ft9ruw07g-dominikj22.vercel.app/">
-           <img width="400" src="javx.gif" alt="javx.gif"/>
+           <img src="javx.gif" alt="javx.gif"/>
         </a>
          </p>
         <br /><br />
@@ -188,7 +188,7 @@
         <br />
      <p align="center"> 
        <a target="_blank" href="https://invincible-tracker.netlify.app">
-           <img width="400" src="invi.gif" alt="invi.gif"/>
+           <img src="invi.gif" alt="invi.gif"/>
         </a>
          </p>
         <br /><br />
@@ -206,7 +206,7 @@
         <br />
        <p align="center"> 
        <a target="_blank" href="https://project-cosmos.netlify.app">
-           <img width="400" src="space.gif" alt="space.gif"/>
+           <img src="space.gif" alt="space.gif"/>
         </a>
          </p>
         <br /><br />
