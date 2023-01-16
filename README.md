@@ -123,7 +123,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Want to see A Fullstack E-commers app Made using HTML, CSS, JavaScript, and React.</strong></p>
+         <p align="center"><strong>Want to see A Fullstack book app Made using HTML, CSS, JavaScript, and MySQL.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Ticket Tracker</h3>
