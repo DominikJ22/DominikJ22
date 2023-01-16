@@ -146,10 +146,10 @@
   </tr>
   <tr>
          <td width="50%" valign="top">
-      <h3 align="center">Dont Forget(coming soon...)</h3>
+      <h3 align="center">Dont Forget</h3>
         <br />
         <p align="center"> 
-       <a target="_blank" href=" ">
+       <a target="_blank" href="https://notes-beta-hazel.vercel.app/">
            <img src="todo.gif" alt="todo.gif"/>
         </a>
          </p>
@@ -158,7 +158,7 @@
           
   <a href="link" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://notes-beta-hazel.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
          <p align="center"><strong> Use this Fullstack TO-DO app to keep track of your daily task, all you have to do is sign in! Made using: HTML, CSS, JavaScript, EJS, and MVC.</strong></p>
