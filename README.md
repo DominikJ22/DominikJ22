@@ -141,7 +141,7 @@
   <a href="https://ticket-txk1.onrender.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Need a ticket tracker? Use this app to keep up with customer needs and sort out their issues. Made using: HTML, CSS, JavaScript, Bootstrap, and EJS.</strong></p>
+         <p align="center"><strong>Need a ticket tracker? Use this app to keep up with customer needs and sort out their issues. Made using: HTML, CSS, JavaScript, Bootstrap, MongoDB, Express, Node, and EJS.</strong></p>
     </td>
   </tr>
   <tr>
@@ -222,9 +222,6 @@
   </tr>
 </table>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikj22&show_icons=true&locale=en&layout=compact" alt="dominikj22" /></p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dominikj22&show_icons=true&locale=en" alt="dominikj22" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dominikj22&" alt="dominikj22" /></p>
 
