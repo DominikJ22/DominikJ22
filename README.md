@@ -108,22 +108,22 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Blog Hog</h3>
+      <h3 align="center">Holiday Tick List</h3>
         <br />
            <p align="center"> 
-       <a target="_blank" href="https://blog-neon-nine-49.vercel.app/login">
-           <img src="blog.gif" alt="blog.gif"/>
+       <a target="_blank" href="https://holiday-vosm.vercel.app/">
+           <img src="hol.gif" alt="hol.gif"/>
         </a>
          </p>
         <br /><br />
         <p align="center">
           
-  <a href="https://github.com/DominikJ22/blog" target="_blank" rel="noreferrer">
+  <a href="https://github.com/DominikJ22/holiday" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="https://blog-neon-nine-49.vercel.app/login" target="_blank" rel="noreferrer">
+  <a href="https://holiday-vosm.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>A Fullstack blog app Made using HTML, CSS, JavaScript, MongoDB, Express, React, and Node.</strong></p>
+         <p align="center"><strong>Fullstack app that allows users to make and show progress for their holiday shopping. Made using: HTML, CSS, JavaScript, Express, Node, and PostgreSQL.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Ticket Tracker</h3>
