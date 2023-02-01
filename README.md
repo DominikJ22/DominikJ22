@@ -70,22 +70,22 @@
 <table bordercolor="#a3496a">
 <tr>
      <td width="50%" valign="top">
-      <h3 align="center">Stock up(coming soon...)</h3>
+      <h3 align="center">Grub</h3>
         <br />
            <p align="center"> 
-       <a target="_blank" href=" ">
-           <img src="ecom.gif" alt="ecom.gif"/>
+       <a target="_blank" href="https://grub-7z6jgl9kc-dominikj22.vercel.app/login">
+           <img src="grub.gif" alt="grub.gif"/>
         </a>
          </p>
         <br /><br />
         <p align="center">
           
-  <a href="https://github.com/DominikJ22/stock-up" target="_blank" rel="noreferrer">
+  <a href="https://github.com/DominikJ22/grub" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://grub-7z6jgl9kc-dominikj22.vercel.app/login" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Want to see A Fullstack E-commers app Made using HTML, CSS, JavaScript, and React.</strong></p>
+         <p align="center"><strong>A fullstack meal ordering app that replaces your favorite junk food for a healthier version. Made using HTML, CSS, JavaScript, React, Express, Node, and MongoDB.</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Fit Friends(coming soon...)</h3>
