@@ -164,7 +164,7 @@
         </p>
          <p align="center"><strong> Use this TO-DO app to keep track of your daily task! Made using: HTML, CSS, JavaScript, React, and TypeScript.</strong></p>
     </td>
-     <td width="100%" valign="top">
+     <td width="50%" valign="top">
       <h3 align="center">JavX</h3>
         <br />
        <p align="center"> 
