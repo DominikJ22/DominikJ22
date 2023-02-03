@@ -85,7 +85,8 @@
   <a href="https://grub-7z6jgl9kc-dominikj22.vercel.app/login" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Movie review app that allows users to give reviews to their favorite movies and tv shows. Made using: HTML, Java, Springboot, React, and MongoDB.</strong></p>
+         <p align="center"><strong> Fullstack meal ordering app to order your favorite junk food in a healthier version. Made using: HTML, CSS, JavaScript, React, Express, Node, and  MongoDB. 
+</strong></p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Clips</h3>
@@ -103,7 +104,7 @@
   <a href="https://clips-zroc.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>Having trouble on your fitness journey? Need some motivation? Stay connect with other individuals like you. With my Fullstack Social Media Fitness app. Made using HTML, CSS, JavaScript, React, and MVC.</strong></p>
+         <p align="center"><strong>Movie review app that allows users to give reviews to their favorite movies and tv shows. Made using: HTML, Java, Springboot, React, and MongoDB.</strong></p>
     </td>
   </tr>
   <tr>
