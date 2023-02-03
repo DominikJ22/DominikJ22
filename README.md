@@ -112,7 +112,7 @@
       <h3 align="center">Holiday Tick List</h3>
         <br />
            <p align="center"> 
-       <a target="_blank" href="https://holiday-vosm.vercel.app/">
+       <a target="_blank" href="https://holiday-six.vercel.app/">
            <img src="hol.gif" alt="hol.gif"/>
         </a>
          </p>
@@ -121,7 +121,7 @@
           
   <a href="https://github.com/DominikJ22/holiday" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=red" alt="link to repository" height ="25px"></a> 
-  <a href="https://holiday-vosm.vercel.app/" target="_blank" rel="noreferrer">
+  <a href="https://holiday-six.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-red?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
          <p align="center"><strong>Fullstack app that allows users to make and show progress for their holiday shopping. Made using: HTML, CSS, JavaScript, Express, Node, and PostgreSQL.</strong></p>
